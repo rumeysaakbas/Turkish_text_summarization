@@ -8,18 +8,25 @@
 git clone https://github.com/rumeysaakbas/Turkish_text_summarization.git
 ```
 
-2. Sanal ortamı etkinleştirin:
+2. Sanal ortamı oluşturun ve etkinleştirin:
 ```bash
 cd text_summarization
+python -m venv venv
 venv\Scripts\activate
 ```
+3. İlgili paketleri kurun:
+```bash
+pip install pandas
+pip install nltk
+pip install scikit-learn
+```
 
-3. Uygulamayı çalıştırın:
+4. Uygulamayı çalıştırın:
 ```bash
 python app.py
 ```
 
-4. Tarayıcıda görüntüleyin:
+5. Tarayıcıda görüntüleyin:
 ```bash
 http://localhost:5000
 ```
