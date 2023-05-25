@@ -37,6 +37,7 @@ http://localhost:5000
 - Frekanslama yöntemi (metin özetleme)
 - Derin öğrenme modeli (metin sınıflandırma)
 
+#### Hatice Hesna Çalışkan, Rümeysa Akbaş
 
 
 
